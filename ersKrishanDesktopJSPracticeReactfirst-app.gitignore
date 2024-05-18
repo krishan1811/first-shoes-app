@@ -1,0 +1,17 @@
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 7ab174e..7a3439a 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -2,9 +2,9 @@[m
+ <html lang="en">[m
+   <head>[m
+     <meta charset="UTF-8" />[m
+[31m-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />[m
+[32m+[m[32m    <link rel="icon" type="image/svg+xml" href="/src/assets/brand_logo.svg" />[m
+     <meta name="viewport" content="width=device-width, initial-scale=1.0" />[m
+[31m-    <title>Vite + React</title>[m
+[32m+[m[32m    <title>Nike</title>[m
+     <style>[m
+       @import url("https://fonts.googleapis.com/css2?family=Danfo:ELSH@0..100&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");[m
+     </style>[m
